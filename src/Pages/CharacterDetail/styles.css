@@ -1,0 +1,11 @@
+#idarticulosolo{
+    display:flex;
+    justify-content: center;
+
+}
+
+
+#idarticulosolo > div > button > img{
+
+    height: auto;
+}
